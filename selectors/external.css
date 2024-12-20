@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+.para{
+    color: red;
+    padding-left: 20px;
+    padding-right:20px ;
+}
+#para1{
+    color: green;
+    padding-left: 20px;
+    padding-right:20px ;
+}
+button{
+    margin: 10px;
+}
+*{
+    background-color: yellowgreen;
+}
